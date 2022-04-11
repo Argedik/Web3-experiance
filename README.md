@@ -1,5 +1,5 @@
-HTML-experience
+# HTML-experience
 HTML ödevleri
 
-Kodluyoruz
-Patika
+[Kodluyoruz](https://www.kodluyoruz.org/)  
+[Patika](https://www.patika.dev/)
